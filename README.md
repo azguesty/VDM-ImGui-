@@ -12,5 +12,5 @@ Whether you want to save videos for personal use, offline study, or archiving, V
 #
 You can download the latest version of VDM from the [Releases page](https://github.com/azguesty/VDM-ImGui-/releases).
 
-For the list of supported sites click [here](https://github.com/guest1154255/VDM/blob/main/SupportedSites.md).
+For the list of supported sites click [here](https://github.com/azguesty/VDM/blob/main/SupportedSites.md).
 #
